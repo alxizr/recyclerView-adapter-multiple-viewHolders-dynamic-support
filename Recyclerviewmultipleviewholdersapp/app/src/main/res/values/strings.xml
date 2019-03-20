@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview multiple viewholders app</string>
+    <string name="title">this is my title</string>
+
+</resources>
